@@ -1,0 +1,124 @@
+/* CSS Document */
+.border
+{
+	-moz-border-radius:6px;
+	-khtml-border-radius: 6px;
+	-webkit-border-radius: 6px;
+	
+	BORDER-TOP-WIDTH: 1px; 
+	BORDER-LEFT-WIDTH: 0.5px; 
+	BORDER-BOTTOM-WIDTH: 0.5px; 
+	BORDER-RIGHT-WIDTH:0.5px; 
+	
+	BORDER-LEFT-COLOR: #fff; 
+	BORDER-BOTTOM-COLOR: #fff;
+	BORDER-TOP-COLOR: #fff;
+	BORDER-RIGHT-COLOR: #fff;
+
+	border-style:solid;
+	
+	FONT: 16px Calibri; 
+	COLOR: #FFFFFF; 
+	background:#000
+}
+.border1
+{
+	-moz-border-radius:6px;
+	-khtml-border-radius: 6px;
+	-webkit-border-radius: 6px;
+	
+	BORDER-TOP-WIDTH: 1px; 
+	BORDER-LEFT-WIDTH: 1px; 
+	BORDER-BOTTOM-WIDTH: 1px; 
+	BORDER-RIGHT-WIDTH:1px; 
+	
+	BORDER-LEFT-COLOR:#36C; 
+	BORDER-BOTTOM-COLOR:#36C ;
+	BORDER-TOP-COLOR:#36C ;
+	BORDER-RIGHT-COLOR:#36C ;
+
+	border-style:solid;
+	
+	FONT: 16px Calibri; 
+	COLOR: #333333; 
+	
+}
+
+.border2
+{
+	-moz-border-radius:10px;
+	-khtml-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	
+	BORDER-TOP-WIDTH: 10px; 
+	BORDER-LEFT-WIDTH: 10px; 
+	BORDER-BOTTOM-WIDTH: 10px; 
+	BORDER-RIGHT-WIDTH:10px; 
+	
+	border-spacing:5px;
+	
+	BORDER-LEFT-COLOR: #C2272D; 
+	BORDER-BOTTOM-COLOR: #C2272D;
+	BORDER-TOP-COLOR: #C2272D;
+	BORDER-RIGHT-COLOR: #C2272D;
+
+	border-style:dashed;
+	
+	FONT: 16px Calibri; 
+	COLOR: #333333; 
+}
+
+.bordersiku
+{
+	-moz-border-radius:8px;
+	-khtml-border-radius: 8px;
+	-webkit-border-radius: 8px;
+	
+	
+	border-style:hidden;
+ 
+}
+
+
+
+
+a:link {
+	color: #336CA1;
+	text-decoration: none;
+}
+a:visited {
+	color: #336CA1;
+	text-decoration: none;
+}
+a:hover {
+	color: #FF0000;
+	text-decoration: underline;
+}
+a:active {
+	color: #0000FF;
+	text-decoration: none;
+}
+
+A.katlink:link {
+	PADDING-RIGHT: 2px; 
+	PADDING-LEFT: 2px; 
+	FONT-WEIGHT: bold; 
+	FONT-SIZE: 20px; 
+	PADDING-BOTTOM: 2px; 
+	COLOR: #999999;
+	PADDING-TOP: 2px; 
+	FONT-FAMILY: "Calibri"
+}
+A.katlink:visited {
+	PADDING-RIGHT: 0px; 
+	PADDING-LEFT: 0px; 
+	FONT-WEIGHT: bold; 
+	FONT-SIZE: 20px; 
+	PADDING-BOTTOM: 0px; 
+	COLOR: #999999;
+	PADDING-TOP: 0px; 
+	FONT-FAMILY: "Calibri"
+}
+A.katlink:hover {
+	COLOR: #00fff0;
+}
